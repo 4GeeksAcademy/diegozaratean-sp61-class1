@@ -1,0 +1,28 @@
+ body {
+            background-color: bisque;
+        }
+
+p {
+    background-color: aqua;
+}
+
+.parrafo {
+    background-color: red;
+}
+
+#parrafo1 {
+    background-color: blue;
+}
+
+.enlace {
+    background-color: #1a93cb;
+    padding: 15px 30px;
+    color: #FFF;
+    font-size: 21px;
+    text-decoration: none;
+    border-radius: 16px;
+}
+
+.enlace:hover{
+    background-color: #0b5a7f;
+}
