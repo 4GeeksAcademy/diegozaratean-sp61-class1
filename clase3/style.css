@@ -6,3 +6,12 @@ div {
     background-color: rgb(201, 255, 243);
     border: 1px solid #f0f;
 }
+
+
+.botonmorado {
+    background-color: #6e2cf4;
+}
+
+.btn-primary {
+    background: #b77703;
+}
